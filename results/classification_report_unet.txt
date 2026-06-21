@@ -1,0 +1,12 @@
+Model: Standard Multi-Task U-Net
+============================================================
+
+              precision    recall  f1-score   support
+
+      benign     0.6947    0.7857    0.7374        84
+   malignant     0.6364    0.6512    0.6437        43
+      normal     0.4118    0.2414    0.3043        29
+
+    accuracy                         0.6474       156
+   macro avg     0.5810    0.5594    0.5618       156
+weighted avg     0.6260    0.6474    0.6311       156

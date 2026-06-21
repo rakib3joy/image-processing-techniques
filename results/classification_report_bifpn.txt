@@ -1,0 +1,12 @@
+Model: BiFPN Multi-Task U-Net
+============================================================
+
+              precision    recall  f1-score   support
+
+      benign     0.7157    0.8690    0.7849        84
+   malignant     0.7895    0.3488    0.4839        43
+      normal     0.7143    0.8621    0.7812        29
+
+    accuracy                         0.7244       156
+   macro avg     0.7398    0.6933    0.6834       156
+weighted avg     0.7358    0.7244    0.7013       156
